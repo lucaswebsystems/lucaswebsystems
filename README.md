@@ -67,13 +67,6 @@ An open source, cross platform, local first quota meter for AI coding subscripti
 
 **Focus areas:** AI agent integrations, context and prompt boundaries, developer tooling and CLIs, pnpm monorepos, testing and continuous integration, web performance and accessibility.
 
-## Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucaswebsystems&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0866FF&icon_color=0866FF&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswebsystems&layout=compact&hide_border=true&bg_color=0D1117&title_color=0866FF&text_color=c9d1d9&langs_count=8" alt="Top languages">
-</p>
-
 ## Get in touch
 
 Open to conversations about senior engineering and AI systems work.
