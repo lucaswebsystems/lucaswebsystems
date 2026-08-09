@@ -1,7 +1,10 @@
-<h1 align="center">Lucas Costa</h1>
+<p align="center">
+  <a href="https://lucaswebsystems.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3200&pause=900&color=0866FF&center=true&vCenter=true&width=780&lines=Lucas+Costa;Senior+Web+Developer;AI+Systems+Architect+and+Engineer;I+build+developer+tools+that+stay+honest" alt="Lucas Costa, senior web developer and AI systems architect">
+  </a>
+</p>
 
 <p align="center">
-  <strong>Senior Web Developer · AI Systems Architect and Engineer</strong><br>
   I build web products and developer tools end to end, mostly in TypeScript.
 </p>
 
@@ -63,6 +66,13 @@ An open source, cross platform, local first quota meter for AI coding subscripti
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Focus areas:** AI agent integrations, context and prompt boundaries, developer tooling and CLIs, pnpm monorepos, testing and continuous integration, web performance and accessibility.
+
+## Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucaswebsystems&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0866FF&icon_color=0866FF&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswebsystems&layout=compact&hide_border=true&bg_color=0D1117&title_color=0866FF&text_color=c9d1d9&langs_count=8" alt="Top languages">
+</p>
 
 ## Get in touch
 
